@@ -1,0 +1,35 @@
+p{
+    background-color: blue;
+}
+
+#Rey{
+    color:blueviolet;
+}
+
+#Uriel{
+    color: cadetblue;
+}
+ 
+#Rene{
+    color:aqua
+}
+
+.CH35{
+    color: blue;
+}
+
+.Generation{
+    width: auto;
+    height: auto;
+    margin: auto;
+    padding: 50;
+    border: solid rgb(250, 114, 250);
+}
+
+div{
+    width: auto;
+    height: auto;
+    margin: auto;
+    padding: 50px;
+    border: solid blue;
+}
